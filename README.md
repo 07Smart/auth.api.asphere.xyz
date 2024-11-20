@@ -1,2 +1,2 @@
-# asphere.xyz
+# explorerapi.avax-test.network
 # SUBDOMAIN TAKEOVER
